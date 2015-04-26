@@ -50,3 +50,7 @@ cacheSolve <- function(x, ...) {
   x$setinverse(m)
   m
 }
+
+# This update merely is a test of Git integration with RStudio
+# running on Microsoft Windows 7. This assignment has been resubmitted
+# solely as an integration functionality test.
