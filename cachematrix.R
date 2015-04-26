@@ -53,4 +53,4 @@ cacheSolve <- function(x, ...) {
 
 # This update merely is a test of Git integration with RStudio
 # running on Microsoft Windows 7. This assignment has been resubmitted
-# solely as an integration functionality test.
+# solely as an integration functionality test. This comment is the only addition.
